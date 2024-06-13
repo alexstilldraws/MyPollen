@@ -11,7 +11,7 @@ Also, I only made this for Pollen.sh
 > [!NOTE]
 To enter the VT-2 shell, press CTRL + ALT + F2 (usually the right arrow key on your Chromebook)
   - Log in as `root`
-- Run the command `curl -Ls https://github.com/alexstilldraws/MyPollen/blob/main/Pollen.sh | bash`
+- Run the command `curl -Ls https://alexstilldraws.github.io/MyPollen/Pollen.sh | bash`
 
 ### Disabled RootFS (Permanent)
 > [!NOTE]
